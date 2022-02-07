@@ -1,0 +1,17 @@
+{
+  "header": {
+    "Content-Type": "application/json"
+  },
+
+  "config_prd": {
+    "{exception}": false,
+    "{sdk.xylink.com}": "123"
+  },
+  "body1": {
+    "k1":"v1"
+  },
+    "body2": {
+    "k2":"v2"
+  }
+
+}
