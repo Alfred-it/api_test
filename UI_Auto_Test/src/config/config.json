@@ -1,0 +1,17 @@
+{
+
+
+  "config":["chrome","chrome"],
+
+  "screenShot":false,
+  "picturePath":"/Users/zhouyu/Desktop/web_auto_test/UI_Auto_Test/src/pictures/",
+
+  "indexValid":false,
+  "indexPath":"/Users/zhouyu/Desktop/_appium/UI_Auto_Test/data/table_index.xls",
+
+
+  "cacheValid":false
+
+
+
+}

@@ -115,15 +115,17 @@
     <session id="-154103173">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="28" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="115" />
         </counts>
       </usages-collector>
@@ -143,10 +145,14 @@
     <favorites_list name="api_test" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api_test/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="135" column="2" selection-start-line="135" selection-start-column="2" selection-end-line="135" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -204,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/public/__init__.py" />
         <option value="$PROJECT_DIR$/src/test/debug.py" />
         <option value="$PROJECT_DIR$/src/test/debugcase.py" />
         <option value="$PROJECT_DIR$/src/test/exceptiontest.py" />
@@ -255,6 +260,7 @@
         <option value="$PROJECT_DIR$/src/public/signature_new.py" />
         <option value="$PROJECT_DIR$/src/cases/debugcase.py" />
         <option value="$PROJECT_DIR$/src/run/gogogo.py" />
+        <option value="$PROJECT_DIR$/api_test/.gitignore" />
       </list>
     </option>
   </component>
@@ -695,7 +701,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="822" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.64705884" visible="true" weight="0.16666667" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64705884" visible="true" weight="0.16881259" />
       <window_info id="Structure" order="1" sideWeight="0.8072591" weight="0.24920128" />
       <window_info id="Favorites" order="2" sideWeight="0.3529412" side_tool="true" weight="0.18210863" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -705,7 +711,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32781458" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4978701" weight="0.17868339" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4978701" visible="true" weight="0.17817679" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5021299" side_tool="true" weight="0.36259145" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" weight="0.26821193" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289183" />
@@ -827,7 +833,11 @@
     <entry file="file://$PROJECT_DIR$/src/public/executes.py" />
     <entry file="file://$PROJECT_DIR$/src/base/HTMLTestRunner.py" />
     <entry file="file://$PROJECT_DIR$/api_test/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="135" column="2" selection-start-line="135" selection-start-column="2" selection-end-line="135" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

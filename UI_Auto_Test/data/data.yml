@@ -1,0 +1,22 @@
+case1:
+  phone: 111111111
+  enterprise: enterprise01
+  meetingroom: huiyi01
+  password: password01
+  user: user01
+case2:
+  phone: 222222222
+  enterprise: enterprise02
+  meetingroom: huiyi02
+  password: password02
+  user: user02
+case3:
+  phone: 3333333333
+  enterprise: enterprise03
+  meetingroom: huiyi03
+  password: password03
+  user: user03
+
+
+
+
